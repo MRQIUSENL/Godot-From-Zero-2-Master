@@ -4,6 +4,8 @@ This is My First GameDev Program. Come 2 Watch How My Game Dev Improve. :)
 
 一个跟着 Brackeys 新手教程从零搭起来的 Godot 4 **2D 平台跳跃**练习项目。
 
+> 本项目是 [Godot 从零到一 · 项目合集](../README.md) 中的一个，位于 `knight/` 子目录，可独立打开运行。
+
 ---
 
 ## 当前进度
